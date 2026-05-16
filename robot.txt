@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agustineirene.github.io/tuna128/sitemap.xml
